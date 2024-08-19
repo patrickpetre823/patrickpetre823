@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Patrick Petre
 #### Data Data Data
-I am Patrick! I am currently building my GitHub as my Data Engineering/Analsyst Portfolio!
+I'm in the process of building my GitHub as my data engineering/analsyst portfolio!
 
 Skills: Python / Dash / Tableau / SQL 
 
