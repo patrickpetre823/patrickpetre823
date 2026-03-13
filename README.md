@@ -1,13 +1,12 @@
-## Hi there 👋, I am Patrick Petre
+Hi there 👋, I’m Patrick Petre
 
-I'm in the process of building my GitHub as my data engineering/analsyst portfolio!
+I’m a mechanical engineer with a passion for data and automation. I completed my master’s degree at the Karlsruhe Institute of Technology, where I investigated how RNNs (LSTMs/GRUs) can be used to detect anomalies in vehicle data. 
+For two years, I worked with KA-RaceIng, applying my engineering and data skills in a practical racing environment.
 
-I completed my master's degree in mechanical engineering at the Karlsruhe Institute of Technology. In my master's thesis, I investigated how RNNs, especially LSTMs and GRUs, can be used to find anomalies in vehicle data. This sparked my interest in data engineering/analysis/science!
+Currently, I’m working on a ETL-Pipeline and some Linux dual-boot fixes.
 
-Skills: Python / Dash / Tableau / SQL 
 
-- 🔭 I’m currently working on my Finance Dashboard 
-- 📫 How to reach me: patrickpetre823@yahoo.de 
+📫 How to reach me: patrickpetre823@yahoo.de
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/patrickpetre823)  
